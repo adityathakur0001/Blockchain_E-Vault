@@ -21,4 +21,3 @@ Users can safely store **encrypted data** on-chain (encryption handled off-chain
 
 ---
 
-## 📂 Project Structure
